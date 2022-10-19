@@ -11,6 +11,7 @@
 // @Title  iconnection.go
 // @Description  全部连接相关方法声明
 // @Author  Aceld - Thu Mar 11 10:32:29 CST 2019
+
 package ziface
 
 import (
