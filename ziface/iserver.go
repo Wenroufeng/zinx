@@ -11,6 +11,7 @@
 // @Title  iserver.go
 // @Description  提供Server抽象层全部接口声明
 // @Author  Aceld - Thu Mar 11 10:32:29 CST 2019
+// test11111111111111111
 package ziface
 
 //定义服务接口
